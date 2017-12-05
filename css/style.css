@@ -57,6 +57,7 @@ footer{
 	box-sizing: border-box;
 	background-color: black;
 	position: relative;
+	width:100%;
 
 }
 
@@ -95,15 +96,18 @@ footer div div a{
 
 
 .site-nav ul{
-	margin: 0;
+	margin: 0 auto;
 	margin-top: 56px;
 	padding: 0;
+	width: 400px;
 }
 
 .site-nav li{
 	list-style: none;
 	float: left;
-	margin-right: 19px;
+	margin-left: 9.5px;
+	margin-right: 9.5px;
+	text-decoration: none;
 }
 
 .site-nav a{
