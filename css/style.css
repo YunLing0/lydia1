@@ -1,6 +1,4 @@
 html{
-	width: 960px;
-	height: auto;
 	margin: 0 auto;
 	box-sizing: border-box;
 	background-color: white;
@@ -58,7 +56,6 @@ footer{
 	background-color: black;
 	position: relative;
 	width:100%;
-
 }
 
 footer p{
